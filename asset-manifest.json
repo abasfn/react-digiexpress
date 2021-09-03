@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/react-digiexpress/static/css/main.985a726e.chunk.css",
+    "main.js": "/react-digiexpress/static/js/main.2b8bea4e.chunk.js",
+    "main.js.map": "/react-digiexpress/static/js/main.2b8bea4e.chunk.js.map",
+    "runtime-main.js": "/react-digiexpress/static/js/runtime-main.139b984a.js",
+    "runtime-main.js.map": "/react-digiexpress/static/js/runtime-main.139b984a.js.map",
+    "static/js/2.f6dc8a27.chunk.js": "/react-digiexpress/static/js/2.f6dc8a27.chunk.js",
+    "static/js/2.f6dc8a27.chunk.js.map": "/react-digiexpress/static/js/2.f6dc8a27.chunk.js.map",
+    "static/js/3.e5754b97.chunk.js": "/react-digiexpress/static/js/3.e5754b97.chunk.js",
+    "static/js/3.e5754b97.chunk.js.map": "/react-digiexpress/static/js/3.e5754b97.chunk.js.map",
+    "index.html": "/react-digiexpress/index.html",
+    "static/css/main.985a726e.chunk.css.map": "/react-digiexpress/static/css/main.985a726e.chunk.css.map",
+    "static/js/2.f6dc8a27.chunk.js.LICENSE.txt": "/react-digiexpress/static/js/2.f6dc8a27.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/react-digiexpress/static/media/IRANSansBold.cd9ebcd6.ttf",
+    "static/media/big-img2.68f0af7c.png": "/react-digiexpress/static/media/big-img2.68f0af7c.png",
+    "static/media/digiexpress-logo-yellow.19b700e5.19b700e5.svg": "/react-digiexpress/static/media/digiexpress-logo-yellow.19b700e5.19b700e5.svg",
+    "static/media/digiexpress-logo.f7d66152.f7d66152.svg": "/react-digiexpress/static/media/digiexpress-logo.f7d66152.f7d66152.svg",
+    "static/media/digiperes.f7d66152.svg": "/react-digiexpress/static/media/digiperes.f7d66152.svg",
+    "static/media/image1.434bd646.jpg": "/react-digiexpress/static/media/image1.434bd646.jpg",
+    "static/media/image2.79194059.jpg": "/react-digiexpress/static/media/image2.79194059.jpg",
+    "static/media/image3.0ce9871e.jpg": "/react-digiexpress/static/media/image3.0ce9871e.jpg",
+    "static/media/App.css": "/react-digiexpress/static/media/map.13046acd.jpg",
+    "static/media/phone.85cc2fc5.png": "/react-digiexpress/static/media/phone.85cc2fc5.png",
+    "static/media/truck-full.7bb0c033.7bb0c033.svg": "/react-digiexpress/static/media/truck-full.7bb0c033.7bb0c033.svg",
+    "static/media/vehicles.1d4b4986.1d4b4986.png": "/react-digiexpress/static/media/vehicles.1d4b4986.1d4b4986.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.139b984a.js",
+    "static/js/2.f6dc8a27.chunk.js",
+    "static/css/main.985a726e.chunk.css",
+    "static/js/main.2b8bea4e.chunk.js"
+  ]
+}
