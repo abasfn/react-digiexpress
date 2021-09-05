@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/react-digiexpress/static/css/main.6f6094a8.chunk.css",
-    "main.js": "/react-digiexpress/static/js/main.bfd420d9.chunk.js",
-    "main.js.map": "/react-digiexpress/static/js/main.bfd420d9.chunk.js.map",
+    "main.css": "/react-digiexpress/static/css/main.857f3fd2.chunk.css",
+    "main.js": "/react-digiexpress/static/js/main.101dbfa6.chunk.js",
+    "main.js.map": "/react-digiexpress/static/js/main.101dbfa6.chunk.js.map",
     "runtime-main.js": "/react-digiexpress/static/js/runtime-main.139b984a.js",
     "runtime-main.js.map": "/react-digiexpress/static/js/runtime-main.139b984a.js.map",
     "static/js/2.f6dc8a27.chunk.js": "/react-digiexpress/static/js/2.f6dc8a27.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.e5754b97.chunk.js": "/react-digiexpress/static/js/3.e5754b97.chunk.js",
     "static/js/3.e5754b97.chunk.js.map": "/react-digiexpress/static/js/3.e5754b97.chunk.js.map",
     "index.html": "/react-digiexpress/index.html",
-    "static/css/main.6f6094a8.chunk.css.map": "/react-digiexpress/static/css/main.6f6094a8.chunk.css.map",
+    "static/css/main.857f3fd2.chunk.css.map": "/react-digiexpress/static/css/main.857f3fd2.chunk.css.map",
     "static/js/2.f6dc8a27.chunk.js.LICENSE.txt": "/react-digiexpress/static/js/2.f6dc8a27.chunk.js.LICENSE.txt",
     "static/media/index.css": "/react-digiexpress/static/media/IRANSansBold.cd9ebcd6.ttf",
     "static/media/big-img2.68f0af7c.png": "/react-digiexpress/static/media/big-img2.68f0af7c.png",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.139b984a.js",
     "static/js/2.f6dc8a27.chunk.js",
-    "static/css/main.6f6094a8.chunk.css",
-    "static/js/main.bfd420d9.chunk.js"
+    "static/css/main.857f3fd2.chunk.css",
+    "static/js/main.101dbfa6.chunk.js"
   ]
 }
