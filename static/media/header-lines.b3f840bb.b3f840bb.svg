@@ -1,0 +1,19 @@
+<svg width="1366" height="448" viewBox="0 0 1366 448" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<path opacity="0.6" d="M1332.01 232.495C1059.73 -39.8077 600.704 9.73102 359.501 282C78.4676 599.229 -165.317 269.596 -141.5 220" stroke="url(#paint0_radial)" stroke-width="20" stroke-dasharray="60 60"/>
+<path opacity="0.3" d="M974.512 183.495C882.678 454.922 532.503 365.998 233.502 158.999C97.0013 64.4995 -14.1143 99.1825 -108.498 105.5" stroke="url(#paint1_radial)" stroke-width="20" stroke-dasharray="60 60"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(395.001 61.5) rotate(29.9048) scale(422.216 741.297)">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(424 335) rotate(-139.568) scale(754.759 1376.82)">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="clip0">
+<rect width="1366" height="448" fill="white"/>
+</clipPath>
+</defs>
+</svg>
